@@ -1,16 +1,36 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: CMBS.LOANS
+image: /img/products-full-width.jpg
+heading: CMBS.LOANS
+subheading: >-
+  OUR EXPERT COMMERCIAL MORTGAGE BANKERS PROVIDE NON-RECOURSE, FIXED-RATE CMBS
+  LOANS AND CONDUIT FINANCING FOR MULTIFAMILY AND COMMERCIAL REAL ESTATE 
+  INVESTORS. 
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: >-
+    Fixed-Rate, High Leverage, Non-Recourse Financing for Commercial Real Estate
+    Investors
+  description: >+
+    <iframe width="560" height="315"
+    src="https://www.youtube-nocookie.com/embed/dCVRk1YS0w0" frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope;
+    picture-in-picture" allowfullscreen></iframe> 
+
+
+    Welcome to the internet's first online source of CMBS financing for
+    commercial properties across the United States. With a well developed niche
+    in refinancing existing CMBS loans while navigating defeasance, cash-flow
+    issues, depreciation and more, the advisors at CMBS.loans are experts in
+    leveraging commercial mortgage backed securities as a tool for financing
+    commercial properties. Eligible properties include office, retail,
+    hospitality, apartment, mixed-use, self storage, mobile home parks, and
+    more. 
+
+
+    To Start The Process, Please Click The Button Below And Fill Out A Quick
+    Form
+
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +88,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
